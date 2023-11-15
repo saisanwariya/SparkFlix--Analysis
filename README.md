@@ -1,4 +1,4 @@
-# SparkFlix Analytics: Exploring Movie Reviews with PySpark and SQL
+<h1 align="center">SparkFlix Analytics: Exploring Movie Reviews with PySpark and SQL</h1>
 
 ## Overview
 
